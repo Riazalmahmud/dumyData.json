@@ -1,0 +1,270 @@
+{
+  "musicData": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "accusamus beatae ad facilis cum similique qui sunt",
+      "url": "https://via.placeholder.com/600/92c952",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+      "salesCount": 5,
+      "rating": 4.5,
+      "ratingCount": 10,
+      "viewCount": 10,
+      "category": "islamic"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "reprehenderit est deserunt velit ipsam",
+      "url": "https://via.placeholder.com/600/771796",
+      "thumbnailUrl": "https://via.placeholder.com/150/771796",
+      "salesCount": 5,
+      "rating": 4.5,
+      "ratingCount": 10,
+      "viewCount": 10,
+      "category": "islamic"
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "title": "officia porro iure quia iusto qui ipsa ut modi",
+      "url": "https://via.placeholder.com/600/24f355",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355",
+      "salesCount": 5,
+      "rating": 4.5,
+      "ratingCount": 10,
+      "viewCount": 10,
+      "category": "islamic"
+    },
+    {
+      "albumId": 1,
+      "id": 4,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776",
+      "salesCount": 5,
+      "rating": 4.5,
+      "ratingCount": 10,
+      "viewCount": 10,
+      "category": "islamic"
+    },
+    {
+      "albumId": 1,
+      "id": 5,
+      "title": "natus nisi omnis corporis facere molestiae rerum in",
+      "url": "https://via.placeholder.com/600/f66b97",
+      "thumbnailUrl": "https://via.placeholder.com/150/f66b97",
+      "salesCount": 5,
+      "category": "islamic",
+      "rating": 4.5,
+      "ratingCount": 10,
+      "viewCount": 10
+    },
+    {
+      "albumId": 1,
+      "id": 5,
+      "title": "natus nisi omnis corporis facere molestiae rerum in",
+      "url": "https://via.placeholder.com/600/f66b97",
+      "thumbnailUrl": "https://via.placeholder.com/150/f66b97",
+      "salesCount": 5,
+      "rating": 4.5,
+      "ratingCount": 10,
+      "category": "islamic",
+      "viewCount": 10
+    }
+  ],
+  "recommendedProduct": [
+   
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776",
+      "salesCount": 5,
+      "ratingCount": 10,
+      "viewCount": 10,
+      "album": "Album 4",
+      "duration": "4:10",
+      "genre": "Electronic",
+      "rating": 4.6,
+      "watchCount": 15000
+
+    },
+   
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776",
+      "salesCount": 5,
+      "ratingCount": 10,
+      "viewCount": 10,
+      "album": "Album 4",
+      "duration": "4:10",
+      "genre": "Electronic",
+      "rating": 4.6,
+      "watchCount": 18000
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776",
+      "salesCount": 5,
+      "ratingCount": 10,
+      "viewCount": 10,
+      "album": "Album 4",
+      "duration": "4:10",
+      "genre": "Electronic",
+      "rating": 4.6,
+      "watchCount": 8000
+    },
+    {
+      "albumId": 1,
+      "id": 4,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae top watch",
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776",
+      "salesCount": 5,
+      "ratingCount": 10,
+      "viewCount": 10,
+      "album": "Album 4",
+      "duration": "4:10",
+      "genre": "Electronic",
+      "rating": 4.6,
+      "watchCount": 800000
+    },
+    {
+      "albumId": 1,
+      "id": 5,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776",
+      "salesCount": 5,
+      "ratingCount": 10,
+      "viewCount": 10,
+      "album": "Album 4",
+      "duration": "4:10",
+      "genre": "Electronic",
+      "rating": 4.6,
+      "watchCount": 20000
+    },
+    {
+      "albumId": 1,
+      "id": 6,
+      "title": "natus nisi omnis corporis facere molestiae rerum in",
+      "url": "https://via.placeholder.com/600/f66b97",
+      "thumbnailUrl": "https://via.placeholder.com/150/f66b97",
+      "salesCount": 5,
+      "ratingCount": 10,
+      "viewCount": 10,
+      "artist": "Artist 5",
+      "album": "Album 5",
+      "duration": "3:55",
+      "genre": "Indie",
+      "rating": 4.7,
+      "watchCount": 25000
+    }
+   
+  ],
+  "TendingMusic": [
+   
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776",
+      "salesCount": 5,
+      "ratingCount": 10,
+      "viewCount": 1,
+      "album": "Album 4",
+      "duration": "4:10",
+      "genre": "Electronic",
+      "rating": 4.6,
+      "watchCount": 15000
+
+    },
+   
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776",
+      "salesCount": 5,
+      "ratingCount": 10,
+      "viewCount": 2,
+      "album": "Album 4",
+      "duration": "4:10",
+      "genre": "Electronic",
+      "rating": 4.6,
+      "watchCount": 18000
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776",
+      "salesCount": 5,
+      "ratingCount": 10,
+      "viewCount": 5,
+      "album": "Album 4",
+      "duration": "4:10",
+      "genre": "Electronic",
+      "rating": 4.6,
+      "watchCount": 8000
+    },
+    {
+      "albumId": 1,
+      "id": 4,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae top watch",
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776",
+      "salesCount": 5,
+      "ratingCount": 10,
+      "viewCount": 6,
+      "album": "Album 4",
+      "duration": "4:10",
+      "genre": "Electronic",
+      "rating": 4.6,
+      "watchCount": 800000
+    },
+    {
+      "albumId": 1,
+      "id": 5,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776",
+      "salesCount": 5,
+      "ratingCount": 10,
+      "viewCount": 10,
+      "album": "Album 4",
+      "duration": "4:10",
+      "genre": "Electronic",
+      "rating": 4.6,
+      "watchCount": 20000
+    },
+    {
+      "albumId": 1,
+      "id": 6,
+      "title": "natus nisi omnis corporis facere molestiae rerum in",
+      "url": "https://via.placeholder.com/600/f66b97",
+      "thumbnailUrl": "https://via.placeholder.com/150/f66b97",
+      "salesCount": 5,
+      "ratingCount": 10,
+      "viewCount": 11,
+      "artist": "Artist 5",
+      "album": "Album 5",
+      "duration": "3:55",
+      "genre": "Indie",
+      "rating": 4.7,
+      "watchCount": 25000
+    }
+   
+  ]
+}
